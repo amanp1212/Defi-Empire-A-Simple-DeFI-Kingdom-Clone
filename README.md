@@ -1,4 +1,4 @@
-#Defi Empire, A Simple DeFI Kingdom Clone
+# Defi Empire, A Simple DeFI Kingdom Clone
 
 Welcome to the DeFi Kingdom Clone project! In this project, we aim to create a decentralized finance (DeFi) game inspired by DeFi Kingdoms. Below are the steps to set up your environment, connect to Metamask, and deploy basic building blocks using Solidity and Remix.
 
